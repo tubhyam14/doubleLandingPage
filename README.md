@@ -4,7 +4,7 @@ This project is a fun interactive UI that visually compares Coca Cola and Pepsi.
 
 
 ## 🌐 Live Preview
-🔗 [View Live Site](https://tubhyam14.github.io/randomColorGenerator/) 
+🔗 [View Live Site](https://tubhyam14.github.io/doubleLandingPage/) 
 
 
 ### 🔧 Tech Used:
